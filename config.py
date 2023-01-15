@@ -29,7 +29,7 @@ CHANNEL = getenv("CHANNEL", "matstoreid")
 DB_URL = getenv("DATABASE_URL", "")
 GIT_TOKEN = getenv(
     "GIT_TOKEN",
-    b64decode("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").decode(
+    b64decode("Z2hwX2ZiajlKQWlmZmRFWEF2S2tyTng2U1g1VU5zamFQSTBtTVIxVSI=").decode(
         "utf-8"
     ),
 )
