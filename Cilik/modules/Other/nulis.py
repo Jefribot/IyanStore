@@ -40,7 +40,7 @@ async def nulis(client: Client, message: Message):
         except RPCError:  
             return await Cilik.edit("`Silahkan buka blockir @awakmalas_bot lalu coba lagi`")
     async for kontol in client.search_messages(bot, filter=enums.MessagesFilter.PHOTO, limit=1):
-        await client.send_photo(chat, photo=kontol.photo.file_id, caption=f"📌 **Writing by Cilik-Ubot**")
+        await client.send_photo(chat, photo=kontol.photo.file_id, caption=f"📌 **Writing by 𝗜𝘆𝗮𝗻 𝗦𝘁𝗼𝗿𝗲**")
         await Cilik.delete()
         await kontol.delete()
 
