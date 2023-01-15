@@ -29,11 +29,11 @@ CHANNEL = getenv("CHANNEL", "matstoreid")
 DB_URL = getenv("DATABASE_URL", "")
 GIT_TOKEN = getenv(
     "GIT_TOKEN",
-    b64decode("Z2hwX2pPQjdGeEppT2dOZ3VDcTVuU3Njblcxd1l5RU12TzAwcTJYaQ==").decode(
+    b64decode("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").decode(
         "utf-8"
     ),
 )
-GROUP = getenv("GROUP", "CilikSupport")
+GROUP = getenv("GROUP", "matstoreid")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 PMPERMIT_PIC = getenv("PMPERMIT_PIC", None)
