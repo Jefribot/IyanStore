@@ -24,7 +24,7 @@ from Cilik.modules.Ubot.help import add_command_help
 
 DEF_UNAPPROVED_MSG = (
     "╔════════════════════╗\n"
-    "         🚧 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 🚧\n"
+    "         SELAMAT DATANG KAK\n"
     "╚════════════════════╝\n"
     "► Saya belum menyetujui anda untuk PM.\n"
     "► Tunggu sampai saya menyetujui PM anda.\n"
