@@ -10,7 +10,7 @@
 ## Deploy With Heroku 💌
 
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Jefribot/IyanStore/tree/main"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Jefribot/IyanStore"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
