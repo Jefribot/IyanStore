@@ -9,7 +9,7 @@ from Cilik.helpers.utility import split_list
 
 heading = "──「 **{0}** 」──\n"
 
-HELP_LOGO = "https://telegra.ph/file/47cbe59d71d4e2b8124a8.jpg"
+HELP_LOGO = "https://telegra.ph/file/5a09a00e97eebe9b89628.jpg"
 
 @Client.on_message(filters.command("help", [".", "-", "^", "!", "?"]) & filters.me)
 async def module_help(client: Client, message: Message):
@@ -33,11 +33,11 @@ async def module_help(client: Client, message: Message):
             ac.add_row([x[0], x[1] if len(x) >= 2 else None])
 
             
-        text = "𝗖𝗶𝗹𝗶𝗸 𝗠𝗼𝗱𝘂𝗹𝗲𝘀 \n\n"
-        text += "🔮 𝗨𝗯𝗼𝘁: -⋟ `cilik` -⋟ `alive` -⋟ `heroku` -⋟ `system` -⋟ `update` \n\n"
+        text = "𝗜𝘆𝗮𝗻 𝗦𝘁𝗼𝗿𝗲 𝗠𝗼𝗱𝘂𝗹𝗲𝘀 \n\n"
+        text += "🔮 𝗨𝗯𝗼𝘁: -⋟ `alive` -⋟ `heroku` -⋟ `system` -⋟ `update` \n\n"
         text += "⚙️ 𝗧𝗼𝗼𝗹𝘀: -⋟ `create` -⋟ `converter` -⋟ `gcast` -⋟ `info` -⋟ `invite` -⋟ `locks` -⋟ `profile` -⋟ `parse` -⋟ `paste` -⋟ `purge` -⋟ `sangmata` -⋟ `translate` -⋟ `vctools` \n\n"
         text += "🎈 𝗙𝘂𝗻: -⋟ `asupan` -⋟ `animasi` -⋟ `fakeaction` -⋟ `salam` -⋟ `toxic` \n\n"
-        text += "🧰 𝗢𝘁𝗵𝗲𝗿: -⋟ `admins` -⋟ `afk` -⋟ `globals` -⋟ `groups` -⋟ `google` -⋟ `join` -⋟ `logs` -⋟ `misc` -⋟ `nulis` -⋟ `spam` -⋟ `sticker` -⋟ `sosmed` -⋟ `pmpermit` -⋟ `youtube` \n\n\n"
+        text += "🧰 𝗢𝘁𝗵𝗲𝗿: -⋟ `admins` -⋟ `afk` -⋟ `globals` -⋟ `groups` -⋟ `google` -⋟ `join` -⋟ `logs` -⋟ `misc` -⋟ `nulis` -⋟ `spam` -⋟ `sticker` -⋟ `sosmed` -⋟ `pmpermit` \n\n\n"
         text += "📮 𝗣𝗿𝗲𝗳𝗶𝘅 -⋟ `[. - ^ ! ?]`\n"
         text += "     `.help [module_name]`\n"
         
