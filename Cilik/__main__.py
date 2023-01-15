@@ -51,7 +51,7 @@ async def main():
 
 
 if __name__ == "__main__":
-    LOGGER("Cilik").info("Starting Cilik-Ubot")
+    LOGGER("IyanStore").info("Starting IyanStore Bot")
     install()
     git()
     heroku()
