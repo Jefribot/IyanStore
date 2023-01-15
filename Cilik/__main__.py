@@ -27,10 +27,6 @@ async def main():
         try:
             await bot.start()
             bot.me = await bot.get_me()
-            await bot.join_chat("Lunatic0de")
-            await bot.join_chat("SharingUserbot")
-            await bot.join_chat("CilikProject")
-            await bot.join_chat("CilikSupport")
             await bot.join_chat("matstoreid")            
             try:
                 await bot.send_message(
