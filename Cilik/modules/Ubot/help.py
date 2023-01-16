@@ -33,7 +33,7 @@ async def module_help(client: Client, message: Message):
             ac.add_row([x[0], x[1] if len(x) >= 2 else None])
 
             
-        text = "𝗜𝘆𝗮𝗻 𝗦𝘁𝗼𝗿𝗲 𝗠𝗼𝗱𝘂𝗹𝗲𝘀 \n\n"
+        text = "𝗜𝘆𝗮𝗻 𝗠𝗼𝗱𝘂𝗹𝗲𝘀 \n\n"
         text += "🔮 𝗨𝗯𝗼𝘁: -⋟ `alive` -⋟ `heroku` -⋟ `system` -⋟ `update` \n\n"
         text += "⚙️ 𝗧𝗼𝗼𝗹𝘀: -⋟ `create` -⋟ `converter` -⋟ `gcast` -⋟ `info` -⋟ `invite` -⋟ `locks` -⋟ `profile` -⋟ `parse` -⋟ `paste` -⋟ `purge` -⋟ `sangmata` -⋟ `translate` -⋟ `vctools` \n\n"
         text += "🎈 𝗙𝘂𝗻: -⋟ `asupan` -⋟ `animasi` -⋟ `fakeaction` -⋟ `salam` -⋟ `toxic` \n\n"
