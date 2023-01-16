@@ -23,15 +23,16 @@ from config import PM_AUTO_BAN
 from Cilik.modules.Ubot.help import add_command_help
 
 DEF_UNAPPROVED_MSG = (
-    "╔════════════════════╗\n"
-    "         SELAMAT DATANG KAK\n"
-    "╚════════════════════╝\n"
-    "► Saya belum menyetujui anda untuk PM.\n"
-    "► Tunggu sampai saya menyetujui PM anda.\n"
-    "► Jangan Spam Chat atau anda akan otomatis diblokir.\n"
-    "╔════════════════════╗\n"
-    "           𝗣𝗲𝘀𝗮𝗻 𝗢𝘁𝗼𝗺𝗮𝘁𝗶𝘀 𝗕𝘆 𝗜𝘆𝗮𝗻 𝗦𝘁𝗼𝗿𝗲  \n"
-    "╚════════════════════╝\n"
+    "╔═════════════════════╗\n"   
+    "                ᴡᴇʟᴄᴏᴍᴇ ᴋᴀᴋ\n"
+    "╚═════════════════════╝\n"
+    "∆ ꜱᴀʏᴀ ʙᴇʟᴜᴍ ᴍᴇɴʏᴇᴛᴜᴊᴜɪ ᴘᴇꜱᴀɴ ᴀɴᴅᴀ\n"
+    "∆ ᴊᴀɴɢᴀɴ ꜱᴘᴀᴍ ʏᴀ ᴋᴀᴋ . ᴘᴀꜱᴛɪ ᴅɪʙᴀʟᴇꜱ\n"
+    "∆ ꜱᴀʙᴀʀ ʏᴀ ᴏʀᴀɴɢ ɴʏᴀ ᴏꜰꜰ.\n"
+    "∆ ɴᴀʜ ᴋᴀɴ ᴏᴛᴏᴍᴀᴛɪꜱ ᴋᴇʙʟᴏᴄᴋ ᴡʟᴇᴋ.\n"
+    "╔═════════════════════╗\n"
+    "│ㅤㅤ        𝗣𝗲𝘀𝗮𝗻 𝗢𝘁𝗼𝗺𝗮𝘁𝗶𝘀 𝗕𝘆 𝗜𝘆𝗮𝗻\n"
+    "╚═════════════════════╝"
 )
 
 
