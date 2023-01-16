@@ -9,7 +9,7 @@ from Cilik.helpers.utility import split_list
 
 heading = "──「 **{0}** 」──\n"
 
-HELP_LOGO = "https://telegra.ph/file/5a09a00e97eebe9b89628.jpg"
+HELP_LOGO = "https://telegra.ph/file/367355c578c38fb782807.jpg"
 
 @Client.on_message(filters.command("help", [".", "-", "^", "!", "?"]) & filters.me)
 async def module_help(client: Client, message: Message):
